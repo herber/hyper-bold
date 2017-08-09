@@ -1,4 +1,4 @@
-# hyper-snazzy
+# hyper-bold
 
 > A simple and colorful [hyper](https://hyper.is) theme.
 
